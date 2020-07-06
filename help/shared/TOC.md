@@ -11,4 +11,4 @@ getting-started-url: https://community.adobe.com/t5/acrobat-reader-mobile/bd-p/a
 
 # Acrobat Reader for Android and iOS {#acrobatmobile}
 
-+ [Overview](liquidmode.md)
++ [Overview](overview.md)
