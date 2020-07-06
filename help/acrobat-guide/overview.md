@@ -5,7 +5,7 @@ description: This is the article overview.
 
 # Title
 
-Welcome to the something something user guide.
+Welcome to the something something user guide. You can [!DNL Adobe Liquid Mode] to do something. [!UICONTROL Choose Format] > [!UICONTROL Liquid Mode] to enter a different view.
 
 MORE...
 
