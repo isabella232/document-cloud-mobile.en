@@ -39,10 +39,6 @@ We value your privacy and trust and make it a priority when you use our products
 
 To learn more about how we protect your privacy when you use Adobe Acrobat Reader mobile app, please visit [Adobe Privacy Center](https://www.adobe.com/privacy.html).
 
-**Does this experience change the file format of your document?**
-
-No, this experience does not change your document's file format.
-
 **Does this experience change your document's content?**
 
 No, this experience does not change any content. Simply tap on the drop-shaped icon again to revert to your original page view.
