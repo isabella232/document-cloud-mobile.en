@@ -11,7 +11,7 @@ getting-started-url: https://community.adobe.com/t5/acrobat-reader-mobile/bd-p/a
 
 # A Revolutionary new Reading Experience in Adobe Acrobat Reader {#liquidmode}
 
-Welcome! Discovering new technology can be very rewarding. You’re likely here because you discovered Liquid Mode, a revolutionary new document reading experience in the Adobe Acrobat Reader phone app. Powered by [Adobe Sensei](https://www.adobe.com/sensei.html), Adobe's artificial intelligence (AI) and machine learning technology, Liquid Mode is designed to help you easily read documents on your phone and tablet.
+Welcome! You’re likely here because you discovered Liquid Mode, a revolutionary new document reading experience in the Adobe Acrobat Reader phone app. Powered by [Adobe Sensei](https://www.adobe.com/sensei.html), Adobe's artificial intelligence (AI) and machine learning technology, Liquid Mode is designed to help you easily read documents on your phone and tablet.
 
 Since it’s enabled by AI and machine learning, your experience with this feature will continue to evolve and improve as it learns over time.
 
